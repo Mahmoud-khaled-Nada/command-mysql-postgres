@@ -4,6 +4,7 @@
     "CREATE DATABASE":"CREATE DATABASE database_name;",
     "USE":"USE database_name;",
     "SHOW DATABASES":"SHOW DATABASES;",
+    "DROP DATABASES":"DROP DATABASE <name>;",
     "SHOW TABLE":"SHOW TABLES;",
     "SHOW VALUE TEABLE":"DESCRIBE teable_name;",
     "SELECT TABLE":"SELECT * FROM teable_name;",
@@ -15,3 +16,4 @@
     "INSERT INTO":"INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...);",
     "CREATE TABLE":"CREATE TABLE table_name (column1 datatype, column2 datatype, ...);"
 }
+
